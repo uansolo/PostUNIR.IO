@@ -31,7 +31,7 @@
 	
 <span class="post-meta">Nov 10, 2019</span>
 <h4>
-	<a class="post-link" href="_posts/2019-11-10-Postmedio.md">
+	<a class="post-link" href="_posts/2019-11-10-postmedio.md">
 	Postmedio
 	</a>
 </h4></li><ul>
