@@ -2,7 +2,7 @@
 <body>
 
 <h1>Bienvenido al post de tareas de UNIR</h1>
-<p>__Este es un post de pruebas, donde pretendemos realizar diferentes ejemplos que nos permitan aprender contenidos de la asignatura desarrollo de programas en red.__ _Tambien lo he probado en https://postunir.000webhostapp.com/ _</p>
+<p>Este es un post de pruebas, donde pretendemos realizar diferentes ejemplos que nos permitan aprender contenidos de la asignatura desarrollo de programas en red. Tambien lo he probado en https://postunir.000webhostapp.com/ </p>
 
 </body>
 </html>
