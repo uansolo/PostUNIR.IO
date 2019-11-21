@@ -18,7 +18,7 @@
 	<a class="post-link" href="_posts/2019-11-21-primerpost.md">
 	Primerpost
 	</a>
-</h3></li><ul>
+</h3></li><ul><span class="post-meta">Nov 1, 2019</span>
 <h3>
 	<a class="post-link" href="_posts/2019-11-01-PostViejo.md">
 	Postviejo
