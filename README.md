@@ -1,8 +1,4 @@
 <html>
-<head>
-<title>Page Title</title>
-</head>
-
 <body>
 
 <h1>Bienvenido al post de tareas de UNIR</h1>
