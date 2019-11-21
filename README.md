@@ -10,7 +10,7 @@
 <h2 class="post-list-heading">Post</h2>
 	<ul class"post-list"><li><span class="post-meta">Nov 21, 2019</span>
 <h3>
-	<a class="post-link" href="/2019/11/21/segundo_post.html">
+	<a class="post-link" href="_posts/2019-11-21-primerpost.md">
 	segundo_post
 	</a>
 </h3></li><span class="post-meta">Nov 21, 2019</span>
@@ -23,3 +23,4 @@
 </div>
 </body>
 </html>
+/2019/11/21/segundo_post.html
