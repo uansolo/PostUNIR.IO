@@ -28,12 +28,13 @@
 	Postviejo
 	</a>
 </h3></li><ul>
-
-<h3>
+	
+<span class="post-meta">Nov 10, 2019</span>
+<h4>
 	<a class="post-link" href="_posts/2019-11-10-Postmedio.md">
 	Postmedio
 	</a>
-</h3></li><ul>
+</h4></li><ul>
 	
 </div>
 </body>
