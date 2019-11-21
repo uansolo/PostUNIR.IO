@@ -35,7 +35,6 @@
 	Postmedio
 	</a>
 </h4></li><ul>
-<img src="images/Monigote-OK.jpg" />
 </div>
 </body>
 </html>
